@@ -1,0 +1,9 @@
+main: de.liz3.mcdpkg.McDpkg
+name: McDpkg
+version: 0.1
+author: Liz3
+
+commands:
+  pkg:
+    usage: </command>
+    description: LoL
